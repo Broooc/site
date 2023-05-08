@@ -1,2 +1,2 @@
-#/start.html
+/start.html
 
